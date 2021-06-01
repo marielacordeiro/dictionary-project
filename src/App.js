@@ -6,11 +6,13 @@ export default function App() {
     <div className="App">
       <div className="container">
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset"/>
         </main>
       <footer className="App-footer">
         <small>
-          Coded by Mariela Cordeiro
+          <a href="https://github.com/marielacordeiro/dictionary-project" target="_blank" rel="noreferrer">
+            Coded by Mariela Cordeiro
+          </a>
         </small>
       </footer>  
       </div>
