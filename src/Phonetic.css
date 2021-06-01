@@ -12,6 +12,7 @@
   transition: all 150ms ease-in-out;
   font-size: 13px;
   font-weight: bold;
+  margin-left: 0;
 }
 
 .Phonetic a:hover {
